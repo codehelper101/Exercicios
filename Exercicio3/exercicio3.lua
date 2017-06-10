@@ -6,7 +6,7 @@ contador=contador+1
 end
 end
 if contador==0 then
-print("E PRIMO")
+print(numero.." E PRIMO")
 else
-print("NAO E PRIMO")
+print(numero.." NAO E PRIMO")
 end
