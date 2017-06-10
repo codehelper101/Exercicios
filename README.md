@@ -1,2 +1,2 @@
 # Exercicios
-Exetcícios do Code Helper
+Exercícios do Code Helper
