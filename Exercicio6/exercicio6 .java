@@ -1,5 +1,6 @@
+//Funciona apenas com numeros de 3 digitos
 import java.util.*;
-public class inverter{
+public class exercicio6{
 public static void main(String [] args){
 Scanner scanner=new Scanner(System.in);
 System.out.println("informe numero");
