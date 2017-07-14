@@ -4,7 +4,7 @@
 
 **CONCATENANDO INTEIROS**
 
-**Dada uma lista de inteiros separados por um único espaço na entrada padrão, imprima os maiores e menores valores que podem ser obtidos, concatenando os inteiros em sua própria linha.**
+**Dada uma lista de três inteiros separados por um único espaço na entrada padrão, imprima os maiores e menores valores que podem ser obtidos, concatenando os inteiros em sua própria linha.**
 
 **Exemplo**
 
