@@ -1,0 +1,1 @@
+[print('{} = {}'.format(x, chr(x))) for x in range(33, 127)]
